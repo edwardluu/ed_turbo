@@ -1,0 +1,19 @@
+{
+  "name": "ed_turbo",
+  "version": "1.0.0",
+  "description": "turbo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardluu/ed_turbo"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardluu/ed_turbo/issues"
+  },
+  "homepage": "https://github.com/edwardluu/ed_turbo#readme"
+}
